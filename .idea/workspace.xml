@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61cc156e-620f-4c3f-9e41-75515b9291a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reactive-test/src/main/java/handlers/GreetingHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactive-test/src/main/java/models/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactive-test/src/main/java/com/reactivetest/reactive/backend/controllers/mainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-test/src/main/java/com/test/reactive/reactivetest/ReactiveTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-test/src/main/java/com/reactivetest/reactive/backend/ReactiveBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-test/src/main/java/com/test/reactive/reactivetest/handlers/GreetingHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-test/src/main/java/com/test/reactive/reactivetest/routers/GreetingRouter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-test/src/main/java/models/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-test/src/test/java/com/test/reactive/reactivetest/ReactiveTestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-test/src/test/java/com/reactivetest/reactive/backend/ReactiveBackendApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowDB Browser.ShowToolbar": "false",
     "last_opened_file_path": "C:/Java_Projects/reactive-spring/spring-reactive",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",

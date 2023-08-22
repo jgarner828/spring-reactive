@@ -18,10 +18,10 @@ public MainController() {
     };
 
 
-    @GetMapping( name = "/flux", produces = MediaType.APPLICATION_STREAM_JSON_VALUE )
+    @GetMapping( path = "/intflux", produces = MediaType.APPLICATION_STREAM_JSON_VALUE )
     public Flux<Integer> objectLists() throws InterruptedException {
-
-
         return producer.createIntegerFlux();
     }
+
+
 }

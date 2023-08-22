@@ -1,8 +1,6 @@
 package com.reactivetest.reactive.backend.producers;
 
 
-import org.reactivestreams.Publisher;
-import org.reactivestreams.Subscriber;
 import reactor.core.publisher.Flux;
 
 public class IntegerProducer {

@@ -9,7 +9,4 @@ import reactor.core.publisher.Flux;
 @Repository
 public interface CustomerRepository extends ReactiveCrudRepository<Customer, String> {
 
-    @Query("SELECT * FROM customer WHERE id = :id")
-    Flux<Customer> findAllByid(String id);
-
 }
